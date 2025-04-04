@@ -1,0 +1,10 @@
+python-dotenv
+streamlit
+PyPDF2
+google-generative-ai
+langchain
+langchain-google-genai
+langchain-community
+faiss-cpu
+google-cloud==2.8.0
+google-api-python-client==2.89.0
