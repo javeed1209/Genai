@@ -1,3 +1,13 @@
+python-dotenv==1.1.0
+streamlit==1.44.1
+PyPDF2==3.0.1
+google-generative-ai==0.3.2 #check for the latest version
+langchain==0.1.18 #check for the latest version
+langchain-google-genai==0.1.7 #check for the latest version
+langchain-community==0.0.28 #check for the latest version
+faiss-cpu==1.7.4 #check for the latest version
+google-cloud==2.8.0
+google-api-python-client==2.89.0
 python-dotenv
 streamlit
 PyPDF2
